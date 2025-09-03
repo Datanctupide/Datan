@@ -1,0 +1,42 @@
+.lol{
+    background-color: rgb(172, 225, 255);
+}
+.d1{
+    display: grid;
+    max-width: 600px;
+    margin: 50px auto;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+    padding: 30px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+.dd1{
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+    background-color: rgb(255, 203, 124);
+    max-width: 200px;
+}
+p{
+    margin-left: 10px;
+    text-align: center;
+    color: rgb(187, 126, 34);
+}
+.dd2{
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+    background-color: rgb(255, 203, 124);
+    max-width: 200px;
+}
+.p2{
+    margin-left: 10px;
+    text-align: center;
+    color: rgb(187, 126, 34);
+}
+img{
+    border-radius: 10px;
+    max-width: 200px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+}
